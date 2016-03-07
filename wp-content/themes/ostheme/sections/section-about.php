@@ -27,6 +27,44 @@
                         </div>
                     </div> <!-- /.col-md-6 -->
                 </div> <!--/row -->
+				
+				<div class="row">
+                    <div class="col-md-12">
+                        <div class="section-title wow bounceIn" data-wow-delay=".2s">
+                            <h1>What we are doing ?</h1>
+                            <p>The Exclusive Range of Architectural Glazing & Cladding Products and more...</p>
+                        </div> <!-- /.Section-title -->
+                    </div> <!-- /.col-md-12 -->
+                    <div class="col-md-6 wow fadeInLeft" data-wow-delay=".5s">
+                        <div class="block what-we-do-list">
+                           <ul>
+						   <li>Structural Glazing (Stick / Semi / Unitized System )</li>
+						   <li>Aluminium Composite Panel (Tray / Stick Type)</li>
+						   <li>Spider Glazing</li>
+						   <li>Shop Glazing</li>
+						   <li>Canopy (Glass / ACP / Spider)</li>
+						   <li>Patch Fittings (Dorma / Ozone)</li>
+						   <li>Automatic Sliding Door (Dorma / Ozone)</li>
+						   <li>Louvers (Aluminium / Steel / Glass)</li>
+						   </ul>
+                        </div> <!-- /.block -->
+                    </div> <!-- /.col-md-6 -->
+                    <div class="col-md-6 wow fadeInRight" data-wow-delay=".7s">
+                        <div class="block what-we-do-list">
+                           <ul>
+						   <li>Partitions (Aluminium / Glass / Wooden)</li>
+						   <li>Aluminium Doors & Windows (Sliding / Openable / Fixed)</li>
+						   <li>Hand Rails (SS / MS)</li>
+						   <li>Roof Truss</li>
+						   <li>Interior Decorators</li>
+						   <li>False Ceiling (Gypsum / Armstrong)</li>
+						   <li>Wall Paneling (Glass / Wooden / ACP)</li>
+						   <li>Flooring (Vertified Tiles / Granite / Marbles / Vinyl / Wooden).</li>
+						   </ul>
+                        </div> <!-- /.block -->
+                    </div> <!-- /.col-md-6 -->
+                </div><!--/row -->
+				
 
                 <?php if($tx_switch['section_testimonial_display']) : ?>
                 <div class="row">

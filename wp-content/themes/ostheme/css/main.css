@@ -1357,5 +1357,10 @@ img {
 }
 
 
+.what-we-do-list{}
+.what-we-do-list ul{ margin-left:-40px;}
+.what-we-do-list ul li{  border-radius:8px; font-weight:bold; color:#fff; padding:2em 2em 2em 2.5em; margin-bottom:2em; background:rgba(255, 255, 255, 0.1) none repeat scroll 0 0; border:1px solid #c0c0c0;background-image:url("http://localhost/outlookdemo1/wp-content/uploads/2016/03/icon1.png"); background-repeat:no-repeat; background-position:10px;}
+.what-we-do-list ul li:hover{ border:1px solid #f48120 ;}
+
 
 
