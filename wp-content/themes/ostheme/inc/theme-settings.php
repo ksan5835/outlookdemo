@@ -367,7 +367,99 @@
                 'title'    => __( 'Button Hiperlink', 'tx-switch' ),
                 'desc'     => __( '' ),
                 'default'  => 'http://www.themexpert.com',
-            ),                        
+            ),  
+			//slider 4
+            array(
+                'id'       => 'slider4_heading',
+                'type'     => 'text',
+                'validate' => '',
+                'title'    => __( 'Heading', 'tx-switch' ),
+                'desc'     => __( '' ),
+                'default'  => 'Lorem ipsum dolor sit amet.',
+            ),
+
+            array(
+                'id'       => 'slider4_description',
+                'type'     => 'textarea',
+                'validate' => '',
+                'title'    => __( 'Description', 'tx-switch' ),
+                'desc'     => __( '' ),
+                'default'  => 'Our first step is targeted towards understanding Lorem ipsum dolor sit amet, consectetur.',
+            ),
+            
+            array(
+                'id'       => 'slider4_bg',
+                'type'     => 'media',
+                'url'      => true,
+                'title'    => __( 'background', 'tx-switch' ),
+                'compiler' => 'true',
+                'desc'     => __( 'Please upload .....', 'tx-switch' ),
+                'default'  => array( 'url' => get_template_directory_uri() .'/images/slider-4.jpg'),
+            ),
+
+            array(
+                'id'       => 'slider4_button_text',
+                'type'     => 'text',
+                'validate' => '',
+                'title'    => __( 'Button Text', 'tx-switch' ),
+                'desc'     => __( '' ),
+                'default'  => 'Get Started',
+            ),
+
+            array(
+                'id'       => 'slider4_button_link',
+                'type'     => 'text',
+                'validate' => '',
+                'title'    => __( 'Button Hiperlink', 'tx-switch' ),
+                'desc'     => __( '' ),
+                'default'  => 'http://www.themexpert.com',
+            ),
+			//slider 5
+            array(
+                'id'       => 'slider5_heading',
+                'type'     => 'text',
+                'validate' => '',
+                'title'    => __( 'Heading', 'tx-switch' ),
+                'desc'     => __( '' ),
+                'default'  => 'Lorem ipsum dolor sit amet.',
+            ),
+
+            array(
+                'id'       => 'slider5_description',
+                'type'     => 'textarea',
+                'validate' => '',
+                'title'    => __( 'Description', 'tx-switch' ),
+                'desc'     => __( '' ),
+                'default'  => 'Our first step is targeted towards understanding Lorem ipsum dolor sit amet, consectetur.',
+            ),
+            
+            array(
+                'id'       => 'slider5_bg',
+                'type'     => 'media',
+                'url'      => true,
+                'title'    => __( 'background', 'tx-switch' ),
+                'compiler' => 'true',
+                'desc'     => __( 'Please upload .....', 'tx-switch' ),
+                'default'  => array( 'url' => get_template_directory_uri() .'/images/slider-5.jpg'),
+            ),
+
+            array(
+                'id'       => 'slider5_button_text',
+                'type'     => 'text',
+                'validate' => '',
+                'title'    => __( 'Button Text', 'tx-switch' ),
+                'desc'     => __( '' ),
+                'default'  => 'Get Started',
+            ),
+
+            array(
+                'id'       => 'slider5_button_link',
+                'type'     => 'text',
+                'validate' => '',
+                'title'    => __( 'Button Hiperlink', 'tx-switch' ),
+                'desc'     => __( '' ),
+                'default'  => 'http://www.themexpert.com',
+            ),
         ),   
     ));
 

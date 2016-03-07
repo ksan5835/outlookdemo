@@ -79,6 +79,48 @@
                     </div>
                 </div>
             </div>
+			<div class="item slider-4" style="background-image: url('<?php echo $img = $tx_switch['slider4_bg']['url']; ?>');">
+                <div class="carousel-caption">
+                    <h1 class="animated animate-delay-1 bounceIn">
+                    <?php echo $textarea = $tx_switch['slider4_heading']; ?>
+                    </h1>
+                    <p class="animated animate-delay-2 fadeInRightBig">
+                        <?php echo $textarea = $tx_switch['slider4_description']; ?>
+                    </p>
+                    <div class="animated fadeInUp animate-delay-4">
+                        <div class="btn-line">
+                            <a href="<?php echo $textarea = $tx_switch['slider4_button_link']; ?>">
+                                <p><?php echo $textarea = $tx_switch['slider4_button_text']; ?></p>
+                                <span class="top"></span>
+                                <span class="right"></span>
+                                <span class="bottom"></span>
+                                <span class="left"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			<div class="item slider-5" style="background-image: url('<?php echo $img = $tx_switch['slider5_bg']['url']; ?>');">
+                <div class="carousel-caption">
+                    <h1 class="animated animate-delay-1 bounceIn">
+                    <?php echo $textarea = $tx_switch['slider5_heading']; ?>
+                    </h1>
+                    <p class="animated animate-delay-2 fadeInRightBig">
+                        <?php echo $textarea = $tx_switch['slider5_description']; ?>
+                    </p>
+                    <div class="animated fadeInUp animate-delay-5">
+                        <div class="btn-line">
+                            <a href="<?php echo $textarea = $tx_switch['slider5_button_link']; ?>">
+                                <p><?php echo $textarea = $tx_switch['slider5_button_text']; ?></p>
+                                <span class="top"></span>
+                                <span class="right"></span>
+                                <span class="bottom"></span>
+                                <span class="left"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
         <a class="left carousel-control" href="#carousel" data-slide="prev">
             <i class="fa fa-angle-left"></i>
