@@ -50,7 +50,14 @@ global $tx_switch;
                                 <span class="icon-bar"></span>
                               </button>
                            	 <a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
-                                <img src="<?php echo $img = $tx_switch['switch_logo']['url']; ?>" alt="">
+                              <object width="320" height="80" title="Logo" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+  <param value="sameDomain" name="allowScriptAccess">
+<param value="http://outlookengg.com/images/logo.swf" name="movie">
+<param value="high" name="quality">
+<param value="transparent" name="wmode">
+<param value="#ffffff" name="bgcolor">
+  <embed width="320" height="80" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" bgcolor="#ffffff" wmode="transparent" src="http://outlookengg.com/images/logo.swf">
+</object>
                              </a>
                             </div>
 
