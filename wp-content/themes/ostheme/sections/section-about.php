@@ -38,28 +38,28 @@
                     <div class="col-md-6 wow fadeInLeft" data-wow-delay=".5s">
                         <div class="block what-we-do-list">
                            <ul>
-						   <li>Structural Glazing (Stick / Semi / Unitized System )</li>
-						   <li>Aluminium Composite Panel (Tray / Stick Type)</li>
-						   <li>Spider Glazing</li>
-						   <li>Shop Glazing</li>
-						   <li>Canopy (Glass / ACP / Spider)</li>
-						   <li>Patch Fittings (Dorma / Ozone)</li>
-						   <li>Automatic Sliding Door (Dorma / Ozone)</li>
-						   <li>Louvers (Aluminium / Steel / Glass)</li>
+						   <li><a href="#portfolio">Structural Glazing (Stick / Semi / Unitized System )</a></li>
+						   <li><a href="#portfolio">Aluminium Composite Panel (Tray / Stick Type)</a></li>
+						   <li><a href="#portfolio">Spider Glazing</a></li>
+						   <li><a href="#portfolio">Shop Glazing</a></li>
+						   <li><a href="#portfolio">Canopy (Glass / ACP / Spider)</a></li>
+						   <li><a href="#portfolio">Patch Fittings (Dorma / Ozone)</a></li>
+						   <li><a href="#portfolio">Automatic Sliding Door (Dorma / Ozone)</a></li>
+						   <li><a href="#portfolio">Louvers (Aluminium / Steel / Glass)</a></li>
 						   </ul>
                         </div> <!-- /.block -->
                     </div> <!-- /.col-md-6 -->
                     <div class="col-md-6 wow fadeInRight" data-wow-delay=".7s">
                         <div class="block what-we-do-list">
                            <ul>
-						   <li>Partitions (Aluminium / Glass / Wooden)</li>
-						   <li>Aluminium Doors & Windows (Sliding / Openable / Fixed)</li>
-						   <li>Hand Rails (SS / MS)</li>
-						   <li>Roof Truss</li>
-						   <li>Interior Decorators</li>
-						   <li>False Ceiling (Gypsum / Armstrong)</li>
-						   <li>Wall Paneling (Glass / Wooden / ACP)</li>
-						   <li>Flooring (Vertified Tiles / Granite / Marbles / Vinyl / Wooden).</li>
+						   <li><a href="#portfolio">Partitions (Aluminium / Glass / Wooden)</a></li>
+						   <li><a href="#portfolio">Aluminium Doors & Windows (Sliding / Openable / Fixed)</a></li>
+						   <li><a href="#portfolio">Hand Rails (SS / MS)</a></li>
+						   <li><a href="#portfolio">Roof Truss</a></li>
+						   <li><a href="#portfolio">Interior Decorators</a></li>
+						   <li><a href="#portfolio">False Ceiling (Gypsum / Armstrong)</a></li>
+						   <li><a href="#portfolio">Wall Paneling (Glass / Wooden / ACP)</a></li>
+						   <li><a href="#portfolio">Flooring (Vertified Tiles / Granite / Marbles / Vinyl / Wooden).</a></li>
 						   </ul>
                         </div> <!-- /.block -->
                     </div> <!-- /.col-md-6 -->
