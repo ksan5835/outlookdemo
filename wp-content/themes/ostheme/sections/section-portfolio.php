@@ -53,9 +53,9 @@
                                     <a class="test-popup-link" href="<?php echo $text = get_post_meta( $post->ID, '_tx_portfolio_img', true ); ?>   " >
                                         <i class="fa fa-search"></i>
                                     </a>
-                                    <a href="<?php echo $text = get_post_meta( $post->ID, '_tx_portfolio_link', true ); ?>" target="_blank">
+                                    <!--<a href="<?php //echo $text = get_post_meta( $post->ID, '_tx_portfolio_link', true ); ?>" target="_blank">
                                         <i class="fa fa fa-link"></i>
-                                    </a>
+                                    </a>-->
                                 </span>
                             </li>
                             <?php endwhile; ?>
