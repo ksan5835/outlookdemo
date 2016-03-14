@@ -41,6 +41,14 @@
                                     <img src="<?php echo $text = get_post_meta( $post->ID, '_tx_portfolio_img', true ); ?>">
                                     <div></div>    
                                 </a>
+								<span>
+								<?php $title = get_the_title( $post_id ); 
+								$ex_title = explode('-',$title);
+								if($ex_title[1]){									
+									echo "<h4>".$ex_title[1]."</h4>";
+								}
+								?>
+								</span>
                                 <span class="portfolio-buttons">
                                     <a class="test-popup-link" href="<?php echo $text = get_post_meta( $post->ID, '_tx_portfolio_img', true ); ?>   " >
                                         <i class="fa fa-search"></i>
